@@ -5,6 +5,10 @@
 - 🌱 I’m currently learning Spring Boot.
 - 📫 How to reach me: baris.yenigun35@gmail.com
 
+### Connect With Me
+
+<a href="https://www.linkedin.com/in/barisyenigun07/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"></a>
+
 ### Skills
 <p>
   <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width="30px" height="30px">
