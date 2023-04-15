@@ -7,7 +7,7 @@
 
 ### Connect With Me
 
-<a href="https://www.linkedin.com/in/barisyenigun07/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"></a>
+<a href="https://www.linkedin.com/in/barisyenigun07/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="30px" height="30px"></a>
 
 ### Skills
 <p>
