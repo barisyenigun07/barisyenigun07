@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on backend development.
-- 🌱 I’m currently learning Spring Boot.
+- 🔭 I’m currently working on full stack web development.
+- 🌱 I’m currently learning Spring Boot and React.
 - 📫 How to reach me: baris.yenigun35@gmail.com
 
 ### Connect With Me
