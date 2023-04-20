@@ -21,3 +21,7 @@
   <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" height="50px">
   <img height="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL" />
 </p>
+
+### Most Used Languages
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=barisyenigun07)](https://git.io/streak-stats)
