@@ -24,4 +24,4 @@
 
 ### Most Used Languages
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=barisyenigun07)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barisyenigun07&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
