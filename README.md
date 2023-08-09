@@ -22,6 +22,4 @@
   <img height="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL" />
 </p>
 
-### Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barisyenigun07&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
